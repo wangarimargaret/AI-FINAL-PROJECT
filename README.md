@@ -123,10 +123,13 @@ with the front end done let us create backend: You are an expert backend enginee
 - GET /api/reservations/:userId → Get user reservations
 
 ## Security & Validation:
-- Hash passwords using bcrypt
-- Protect routes with JWT middleware
-- Role-based access control (consumer, pharmacy, admin)
-- Validate request bodies using express-validator
+- Use bcrypt to securely hash user passwords.
+
+Implement JWT middleware to safeguard protected routes.
+
+Apply role-based access control for different user types (consumer, pharmacy, and admin).
+
+Use express-validator to ensure all incoming request data is properly validated.
 
 ## Setup:
 - Include instructions in README for:
