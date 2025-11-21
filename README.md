@@ -1,7 +1,7 @@
 Live Web App. https://preview--afya-finder-aid.lovable.app/
 
 
- PITCH DECK LINK-https://www.canva.com/design/DAGxwIzFha4/b9yVDyfyhO864gJFLIwCiw/view?utm_content=DAGxwIzFha4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9a5a5b0fd8
+ PITCH DECK LINK-https://gamma.app/docs/AfyaAlert-tz8inkd59utd6cs
 
 AI PROMPT FOR THE WEB APP
 You are an expert frontend developer.  
